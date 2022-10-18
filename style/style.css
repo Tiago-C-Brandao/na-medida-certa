@@ -1,0 +1,29 @@
+body {
+    background-color: #78FFD6;
+    margin: 0;
+}
+.container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #0AD3FF;
+    padding: 55px;
+    border-radius: 12px;
+}
+
+.gram {
+    display: flex;
+    justify-content: center;    
+}
+
+.enter-gram {
+    margin-top: 11px;
+    margin-left: 10px;
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
